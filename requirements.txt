@@ -1,0 +1,17 @@
+You're a data analyst at a consulting firm that helps restaurant owners optimize their business performance. You've been tasked with analyzing the relationship between restaurant characteristics (like cuisine type, location, price level) and their health inspection performance to provide actionable insights to your clients.
+
+Data Source
+In this lab, you will be working with a mixture of data sources. You will be getting inspection information from the 
+DOHMH New York City Restaurant Inspection Results
+, and ratings from each restaurant, similar to what you would get from a Google Place query.  
+
+To make the lab experience more consistent you will be working with the data in the following links:
+
+Restaurant Inspection Results
+: Contains restaurant inspection results from NYC for the last 6 months of 2024. If the page is taking too long to load, or is too slow you can inspect 
+this smaller version
+.
+
+Restaurant Ratings
+: Contains restaurant reviews gathered from Google Maps.  All information is accurate as of 2025-02-20, when the data was gathered.
+
