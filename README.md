@@ -80,3 +80,14 @@ FROM inspections
 WHERE SCORE IS NOT NULL
 GROUP BY INSPECTION_TYPE
 ORDER BY pass_rate DESC;
+
+### 7) Close connection
+`conn.close()`
+
+---
+
+## Example outputs
+
+- Cuisine types with average inspection scores  
+- Joined inspections + ratings with `SCORE`, `price_level`, `rating`  
+- Pass-rate table grouped by `INSPECTION_TYPE` (pass defined as `SCORE <= 13`) 
