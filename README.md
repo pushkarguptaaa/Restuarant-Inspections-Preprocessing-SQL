@@ -1,4 +1,4 @@
-# NYC Restaurant Inspections (Data Cleaning & SQL)
+# NYC Restaurant Inspections (Data Preprocessing & Cleaning with Python & SQL)
  
 **Tech stack:** Python (pandas, sqlite3), SQL (SQLite), Jupyter Notebook  
 
